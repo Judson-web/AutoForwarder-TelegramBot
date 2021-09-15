@@ -72,3 +72,7 @@ Install the necessary python dependencies by moving to the project directory and
 `pip3 install -r requirements.txt`.
 
 This will install all necessary python packages.
+
+### Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Judson-web/AutoForwarder-TelegramBot)
+
